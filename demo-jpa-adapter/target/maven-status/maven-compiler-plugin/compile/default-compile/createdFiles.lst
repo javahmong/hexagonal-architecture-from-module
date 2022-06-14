@@ -1,0 +1,3 @@
+ch\demo\entity\Employee.class
+ch\demo\service\EmployeeJpaAdapter.class
+ch\demo\repository\EmployeeRepository.class

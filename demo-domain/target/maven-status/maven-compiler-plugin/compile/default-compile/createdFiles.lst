@@ -1,0 +1,4 @@
+ch\demo\model\EmployeeDTO.class
+ch\demo\ports\api\EmployeeServicePort.class
+ch\demo\ports\spi\EmployeePeristencePort.class
+ch\demo\service\EmployeeServiceImpl.class
