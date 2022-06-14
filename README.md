@@ -28,11 +28,11 @@ http://localhost:8080/employee
 Finally, you will be able to dockerize the application.
 In the root directory where the Dockerfile is, just execute
 
-# docker build -t your_image_name:your_tag .
+docker build -t your_image_name:your_tag .
 
 Then run:
 
-# docker run -d -p 8080:8080 your_image_name:your_tag
+docker run -d -p 8080:8080 your_image_name:your_tag
 
 #SpringBoot
 
